@@ -1,0 +1,78 @@
+<SessionStatCache.xml>
+	<daniel2682>
+		<createTime>	30.06.2015	</createTime>
+		<variableValues>
+			<receivedCreditsBattle>	0	</receivedCreditsBattle>
+			<receivedCredits>	0	</receivedCredits>
+			<totalXPRatio>	0	</totalXPRatio>
+			<total_expDamage>	0	</total_expDamage>
+			<total_expSpot>	0	</total_expSpot>
+			<total_expDef>	0	</total_expDef>
+			<serviceCost>	0	</serviceCost>
+			<total_expWinRate>	0	</total_expWinRate>
+			<total_expFrag>	0	</total_expFrag>
+			<serviceCostBattle>	0	</serviceCostBattle>
+			<totalFreeXP>	0	</totalFreeXP>
+			<totalVehicleTier>	0	</totalVehicleTier>
+		</variableValues>
+		<stats>
+			<freeXP>	176202	</freeXP>
+			<damageAssistedTrack>	590347	</damageAssistedTrack>
+			<gold>	15863	</gold>
+			<totalXP>	4767687	</totalXP>
+			<damageReceived>	7112346	</damageReceived>
+			<capturePoints>	5825	</capturePoints>
+			<damageDealt>	8872455	</damageDealt>
+			<deathsCount>	4657	</deathsCount>
+			<fragsCount>	6467	</fragsCount>
+			<droppedCapturePoints>	6289	</droppedCapturePoints>
+			<spottedCount>	7061	</spottedCount>
+			<credits>	406099	</credits>
+			<battlesCount>	6864	</battlesCount>
+			<winsCount>	3679	</winsCount>
+			<shotsCount>	73128	</shotsCount>
+			<originalXP>	3122539	</originalXP>
+			<lossesCount>	3109	</lossesCount>
+			<hitsCount>	47047	</hitsCount>
+			<damageAssistedRadio>	1824960	</damageAssistedRadio>
+		</stats>
+	</daniel2682>
+	<Grond666>
+		<createTime>	25.06.2015	</createTime>
+		<variableValues>
+			<receivedCreditsBattle>	0	</receivedCreditsBattle>
+			<receivedCredits>	0	</receivedCredits>
+			<totalXPRatio>	0	</totalXPRatio>
+			<total_expDamage>	0	</total_expDamage>
+			<total_expSpot>	0	</total_expSpot>
+			<total_expDef>	0	</total_expDef>
+			<serviceCost>	0	</serviceCost>
+			<total_expWinRate>	0	</total_expWinRate>
+			<total_expFrag>	0	</total_expFrag>
+			<serviceCostBattle>	0	</serviceCostBattle>
+			<totalFreeXP>	0	</totalFreeXP>
+			<totalVehicleTier>	0	</totalVehicleTier>
+		</variableValues>
+		<stats>
+			<freeXP>	34506	</freeXP>
+			<damageAssistedTrack>	787335	</damageAssistedTrack>
+			<gold>	2310	</gold>
+			<totalXP>	3949868	</totalXP>
+			<damageReceived>	1432194	</damageReceived>
+			<capturePoints>	1829	</capturePoints>
+			<damageDealt>	8278901	</damageDealt>
+			<deathsCount>	4007	</deathsCount>
+			<fragsCount>	7750	</fragsCount>
+			<droppedCapturePoints>	9841	</droppedCapturePoints>
+			<spottedCount>	397	</spottedCount>
+			<credits>	2335843	</credits>
+			<battlesCount>	7245	</battlesCount>
+			<winsCount>	3749	</winsCount>
+			<shotsCount>	48814	</shotsCount>
+			<originalXP>	2683407	</originalXP>
+			<lossesCount>	3440	</lossesCount>
+			<hitsCount>	18102	</hitsCount>
+			<damageAssistedRadio>	135933	</damageAssistedRadio>
+		</stats>
+	</Grond666>
+</SessionStatCache.xml>

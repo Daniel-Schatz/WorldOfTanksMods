@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<gc>
+
+	<arcade>
+		<visible td="true" spg="true" center="false"/> 
+		<offset constraints="-75" center="-50"/> 
+	</arcade>
+	
+	<sniper>
+		<visible td="true" spg="true" center="false"/> 
+		<offset constraints="0" center="20"/> 
+	</sniper>
+
+	
+	<strategic>
+		<visible td="true" spg="true" center="false"/> 
+		<offset constraints="0" center="20"/> 
+	</strategic>
+
+	<constraints>
+		<text font="MicraC" size="15" angle ="0" alpha="100" align="center" bold="false" leading="0" width="60" height="19"/> 
+		<filter size="3" angle="0" distance="0" color="0x000000" alpha="100" strength="200"/> 
+		<color normal="0x96FF00" critical="0xFF0000"/> 
+		<scale x="100" y="100"/> 
+		<type>1</type> 
+	</constraints>
+	
+	<center>
+		<filter size="3" angle="0" distance="0" color="0x000000" alpha="100" strength="200"/> 
+		<color normal="0x96FF00" critical="0xFF0000"/> 
+		<scale x="100" y="100"/> 		
+		<type>1</type> 
+	</center>
+	
+	<rightMarkertxt visible="false"> 
+		<location x="-40" y="-7"/> 
+		<text font="MicraC" size="10" color="0xffffff" angle ="0" alpha="100" align="center" bold="false" leading="0" width="26" height="16"/> 
+		<filter size="1" angle="0" distance="0" color="0x000000" alpha="100" strength="100"/> 
+	</rightMarkertxt>
+	
+	<leftMarkertxt visible="false"> 
+		<location x="10" y="-7"/> 
+		<text font="MicraC" size="10" color="0xffffff" angle ="0" alpha="100" align="center" bold="false" leading="0" width="26" height="16"/> 
+		<filter size="1" angle="0" distance="0" color="0x000000" alpha="100" strength="100"/> 
+	</leftMarkertxt>
+	
+	<centerMarkertxt visible="false"> 
+		<location x="-12.5" y="12"/> 
+		<text font="MicraC" size="10" color="0xffffff" angle ="0" alpha="100" align="center" bold="false" leading="0" width="26" height="30"/> 
+		<filter size="3" angle="0" distance="0" color="0x000000" alpha="100" strength="300"/> 
+	</centerMarkertxt>
+
+</gc>

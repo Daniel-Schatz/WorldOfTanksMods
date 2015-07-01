@@ -1,0 +1,15 @@
+<modpack.xml>
+	<!-- Set Toggle ON/OFF. If set to ON, mod will check newer version every 7200 secs. With OFF it will check it only at game start -->
+	<Toggle>ON</Toggle>
+	<ModpackName>Aslain's ModPack</ModpackName>
+	<UpdateAvailable> is available.</UpdateAvailable>
+	<UpToDate> is up to date.</UpToDate>
+	<!-- Set the text for link -->
+	<UpdateText>Download</UpdateText>
+	<!-- Set URL for download -->
+	<UpdateLink>http://aslain.com/index.php?/topic/13-</UpdateLink>
+	<!-- Set the text for second link, or leave it empty -->
+	<SupportText>Support</SupportText>
+	<!-- Set the second URL, or leave it empty -->
+	<SupportLink>http://aslain.com/index.php?/forum/11-</SupportLink>
+</modpack.xml>                                                 
